@@ -33,12 +33,17 @@ _(If the page appears broken, make sure `style.css` and `js.js` paths are relati
 ## 📁 Project Structure
 
 Grilli-Restro/
+
 ├── index.html
+
 ├── style.css
+
 ├── js.js
+
 ├── assets/
 │ └── images/
 ├── favicon.svg
+
 └── README.md
 
 ## 🚀 How to Run Locally
